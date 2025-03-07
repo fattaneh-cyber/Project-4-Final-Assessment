@@ -1,0 +1,65 @@
+/* General Body Styles */
+body {
+    background-color: #4CAF50; /* Green background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+/* Header styles for the title */
+.resume-title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* Section Styles */
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px;
+}
+
+/* Heading styles for sections */
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Experience list styles */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    margin-top: 20px;
+}
+
+footer p {
+    color: #fff;
+    margin: 0;
+}
+
+/* Link Styling (if you want to add links) */
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
